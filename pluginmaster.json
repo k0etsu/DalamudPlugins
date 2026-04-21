@@ -3,9 +3,9 @@
         "Author": "k0etsu",
         "Name": "CastTimeline",
         "Punchline": "A timeline viewer for FFXIV casts.",
-        "Description": "Import cast logs and display them in a timeline view. /timeline",
+        "Description": "Import cast logs and display them in a timeline view.",
         "InternalName": "CastTimeline",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.9",
         "RepoUrl": "https://github.com/k0etsu/CastTimeline",
         "ApplicableVersion": "any",
         "Tags": [
@@ -13,12 +13,12 @@
             "casts"
         ],
         "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://github.com/k0etsu/CastTimeline/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/k0etsu/CastTimeline/releases/download/v0.0.0.9/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/k0etsu/CastTimeline/releases/download/v0.0.0.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/k0etsu/CastTimeline/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/k0etsu/CastTimeline/releases/download/v0.0.0.9/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/k0etsu/CastTimeline/releases/download/v0.0.0.9/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1776740860"
+        "LastUpdate": "1776741234"
     }
 ]
