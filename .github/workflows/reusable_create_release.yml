@@ -43,8 +43,8 @@ jobs:
       - name: Build
         run: dotnet build ${{ inputs.solution_name }}.sln --configuration ${{ inputs.build_configuration }} --nologo
 
-      - name: List build output
-        run: Get-ChildItem -Recurse -Filter "*.zip" . | Select-Object FullName
+      - name: Prepare artifacts
+        run: Copy-Item ./bin/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/${{ inputs.internal_name }}/latest.zip ./bin/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/latest.zip
 
       - name: Upload Build Artifact
         uses: actions/upload-artifact@v4
