@@ -2,8 +2,8 @@
   "Author": "k0etsu",
   "Name": "CastTimeline",
   "InternalName": "CastTimeline",
-  "AssemblyVersion": "0.0.0.3",
-  "Description": "Import cast logs and display them in a timeline view. /timeline",
+  "AssemblyVersion": "0.0.0.9",
+  "Description": "Import cast logs and display them in a timeline view.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/k0etsu/CastTimeline",
   "Tags": [
