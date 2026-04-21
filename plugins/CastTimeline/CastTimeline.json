@@ -2,7 +2,7 @@
   "Author": "k0etsu",
   "Name": "CastTimeline",
   "InternalName": "CastTimeline",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.0.0.3",
   "Description": "Imports FFXIV cast logs and displays them in a timeline view. /timeline",
   "ApplicableVersion": "any",
   "Tags": [
