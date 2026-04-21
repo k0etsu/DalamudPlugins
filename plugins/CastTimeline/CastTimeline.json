@@ -1,25 +1,20 @@
 {
-    "Author": "k0etsu",
-    "Name": "CastTimeline",
-    "InternalName": "CastTimeline",
-    "AssemblyVersion": "0.0.0.1",
-    "Punchline": "A timeline viewer for FFXIV casts.",
-    "Description": "Imports FFXIV cast logs and displays them in a timeline view. /timeline",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/k0etsu/CastTimeline",
-    "DalamudApiLevel": 14,
-    "Tags": [
-        "timeline",
-        "casts",
-        "ffxiv"
-    ],
-    "CategoryTags": [
-        "utility"
-    ],
-    "IconUrl": "",
-    "ImageUrls": [],
-    "Changelog": "",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "AcceptsFeedback": true
+  "Author": "k0etsu",
+  "Name": "CastTimeline",
+  "InternalName": "CastTimeline",
+  "AssemblyVersion": "0.0.0.3",
+  "Description": "Imports FFXIV cast logs and displays them in a timeline view. /timeline",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "timeline",
+    "casts",
+    "ffxiv"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A timeline viewer for FFXIV casts.",
+  "AcceptsFeedback": true
 }
