@@ -2,7 +2,7 @@
   "Author": "k0etsu",
   "Name": "CastTimeline",
   "InternalName": "CastTimeline",
-  "AssemblyVersion": "0.0.0.11",
+  "AssemblyVersion": "0.0.1.0",
   "Description": "Import cast logs and display them in a timeline view.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/k0etsu/CastTimeline",
@@ -10,7 +10,7 @@
     "timeline",
     "casts"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
