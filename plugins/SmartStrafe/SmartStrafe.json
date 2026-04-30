@@ -2,7 +2,7 @@
   "Author": "k0etsu",
   "Name": "SmartStrafe",
   "InternalName": "SmartStrafe",
-  "AssemblyVersion": "0.0.1.0",
+  "AssemblyVersion": "0.0.1.2",
   "Description": "Better movement.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/k0etsu/SmartStrafe",
