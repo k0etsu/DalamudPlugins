@@ -1,0 +1,19 @@
+{
+  "Author": "k0etsu",
+  "Name": "SmartStrafe",
+  "InternalName": "SmartStrafe",
+  "AssemblyVersion": "0.0.1.0",
+  "Description": "Better movement.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/k0etsu/SmartStrafe",
+  "Tags": [
+    "movement"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Better movement.",
+  "AcceptsFeedback": true
+}
