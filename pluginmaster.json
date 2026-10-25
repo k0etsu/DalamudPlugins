@@ -1,6 +1,28 @@
 [
     {
         "Author": "k0etsu",
+        "Name": "CastTimeline",
+        "Punchline": "A timeline viewer for FFXIV casts.",
+        "Description": "Import cast logs and display them in a timeline view.",
+        "InternalName": "CastTimeline",
+        "AssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/k0etsu/CastTimeline",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "timeline",
+            "casts"
+        ],
+        "DalamudApiLevel": 15,
+        "DownloadLinkInstall": "https://github.com/k0etsu/CastTimeline/releases/download/v0.1.0.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/k0etsu/CastTimeline/releases/download/v0.1.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/k0etsu/CastTimeline/releases/download/v0.1.0.0/latest.zip",
+        "DownloadCount": 10,
+        "LastUpdate": "1777496850"
+    },
+    {
+        "Author": "k0etsu",
         "Name": "SmartStrafe",
         "Punchline": "Better movement.",
         "Description": "Better movement.",
@@ -19,27 +41,5 @@
         "DownloadLinkUpdate": "https://github.com/k0etsu/SmartStrafe/releases/download/v0.0.1.2/latest.zip",
         "DownloadCount": 4,
         "LastUpdate": "1777517007"
-    },
-    {
-        "Author": "k0etsu",
-        "Name": "CastTimeline",
-        "Punchline": "A timeline viewer for FFXIV casts.",
-        "Description": "Import cast logs and display them in a timeline view.",
-        "InternalName": "CastTimeline",
-        "AssemblyVersion": "0.1.0.0",
-        "RepoUrl": "https://github.com/k0etsu/CastTimeline",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "timeline",
-            "casts"
-        ],
-        "DalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://github.com/k0etsu/CastTimeline/releases/download/v0.1.0.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/k0etsu/CastTimeline/releases/download/v0.1.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/k0etsu/CastTimeline/releases/download/v0.1.0.0/latest.zip",
-        "DownloadCount": 9,
-        "LastUpdate": "1777496850"
     }
 ]
